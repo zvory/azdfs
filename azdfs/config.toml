@@ -1,3 +1,0 @@
-title = "config toml"
-host="locallhost:10000"
-others=["localhost:10001", "localhost:10002"]
