@@ -25,6 +25,8 @@ logging.info(f"Config: {config}")
 dict = ReplDict()
 syncObj = SyncObj(self_address, others, consumers=[dict])
 
+
+
 counter =0
 while True:
     dict.set(self_address, counter, sync=True)

@@ -8,6 +8,7 @@ authors = ["Alex Zvorygin <grafetu@gmail.com>"]
 python = "^3.10"
 pysyncobj = "^0.3.10"
 toml = "^0.10.2"
+fusepy = "^3.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
