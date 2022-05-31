@@ -1,0 +1,4 @@
+title = "ingalls"
+host="ingalls:10000"
+others=["rainier:10000"]
+mountpoint="mount"

@@ -1,4 +1,0 @@
-title = "config 0 toml"
-host="localhost:10000"
-others=["localhost:10001"]
-mountpoint="mount0"
