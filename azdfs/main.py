@@ -35,7 +35,7 @@ def getSynchronizedDict():
 def getDict():
     return {}, None
 
-fsDict, syncObj = getDict()
+fsDict, syncObj = getSynchronizedDict()
 
 def runFUSE(mountpoint,fsDict):
     logging.info("Creating fuse")
