@@ -1,3 +1,4 @@
 title = "config 1 toml"
 host="localhost:10001"
 others=["localhost:10000"]
+mountpoint="mount1"
